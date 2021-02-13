@@ -1,0 +1,132 @@
+{
+  "main": {
+    "name": "Sanchit Mendiratta",
+    "occupation": "Frontend Engineer",
+    "description": "I have an industry experience of 5+ years working as a Software Engineer. I am currently working with AWS",
+    "image": "profilephoto.png",
+    "bio": "I am a Result-oriented Software Engineer proficient in building web applications, passionate about Front-End Web Development and a JavaScript enthusiast. I love to develop applications that are highly performant, are accessible, have a beautiful design and are loved by customers worldwide. I am known for being a Team Player with good communication skills and for taking initiatives towards process improvements.",
+    "contactmessage": "Get in touch with me to talk about Javascript, React, Typescript, NodeJs or anything related to the World Wide Web.",
+    "email": "sanchit.zidane@gmail.com",
+    "phone": "+1206-552-8343",
+    "address": {
+      "street": "Bellevue",
+      "city": "WA",
+      "state": "USA",
+      "zip": "98005"
+    },
+    "website": "https://www.sanchit.dev",
+    "resumedownload": "https://drive.google.com/file/d/1IamrZctezum5su1n_cqngm9DtQGadgrU/view?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/sanchitmendiratta/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/sanchit-mendiratta",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "twitter",
+        "url": "https://www.twitter.com/sanchitkm/",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/sanchitmendiratta07/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/sanchitmendiratta/",
+        "className": "fa fa-instagram"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here are some technologies that I am skilled at:",
+    "education": [
+      {
+        "school": "Jaypee University of Information Technology, Waknaghat (Solan)",
+        "degree": "Bachelor of Technology in Information Technology",
+        "graduated": "July 2015",
+        "description": "CGPA: 8.2"
+      }
+    ],
+    "work": [
+      {
+        "company": "AWS",
+        "title": "Software Development Engineer",
+        "years": "April 2020 - Present"
+      },
+      {
+        "company": "Snapdeal.com",
+        "title": "UI Engineer II",
+        "years": "June 2018 - September 2019"
+      },
+      {
+        "company": "SAP Labs India",
+        "title": "Associate Developer",
+        "years": "August 2015 - May 2018"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs"
+      },
+      {
+        "name": "JavaScript"
+      },
+      {
+        "name": "HTML"
+      },
+      {
+        "name": "CSS"
+      },
+      {
+        "name": "Angular"
+      },
+      {
+        "name": "jQuery"
+      },
+      {
+        "name": "SASS"
+      },
+      {
+        "name": "Bootstrap"
+      },
+      {
+        "name": "NodeJs"
+      },
+      {
+        "name": "ExpressJs"
+      },
+      {
+        "name": "AWS Lambdas"
+      },
+      {
+        "name": "DynamoDB"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": []
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Sanchit is an excellent engineer who really takes ownership of projects and works extremely hard to ensure the project succeed in delivering a quality product. He is dedicated, thorough and has a tremendous appetite for knowledge and furthermore is never afraid of hard work. Organised, diligent, passionate and great at forming relationships with fellow team, having work with him was always reassuring and fun. I would definitely enjoy working with him again.",
+        "user": "Amit Kumar, Engineering Manager (UI / Front End) @Snapdeal, November 21, 2019"
+      },
+      {
+        "text": "Sanchit believes in organizing things. What Marie Kondo does to physical space, Sanchit does to JavaScript code - meticulously understanding spaghetti or redundant code, tidying and refactoring it so that it becomes more modular and maintainable. Besides promoting clean code, Sanchit also excels at handling complex tasks. In one of our projects, Sanchit had taken up a critical complex task of a functionality that required understanding from both frontend and backend. Sanchit, being highly committed, made sure that the task was completed in time and the functionality was delivered to the customers keeping in mind quality and performance of the application. We have been together for roughly 3 years and it has been a good experience working with Sanchit. Wishing him the best for the future.",
+        "user": "Aman Khanna, Associate Architect (UI), @SAP Labs India, September 9, 2018"
+      },
+      {
+        "text": "Sanchit is a proactive UI expert who not only excels in his tasks but also helps out others who need help. A very good team player and flexible to take up responsibilities. He has also contributed to the organizational initiatives and has been a key innovator in the current organization. In a short time Sanchit has taken up a lot of responsibility and has grown into a mature professional. Kudos to your commitment and good work. Way to go :)",
+        "user": "Rini Arora, PMP and PSM-I certified, August 29, 2017"
+      }
+    ]
+  }
+}
